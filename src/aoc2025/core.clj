@@ -4,4 +4,5 @@
 
 (defn -main
   [& _]
-  (println (day-01/start :a)))
+  (println (day-01/start :a)
+           (day-01/start :b)))
